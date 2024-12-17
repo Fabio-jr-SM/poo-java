@@ -1,3 +1,5 @@
+package br.com.caelum.contas.modelo;
+
 public class Conta {
     private static int contadorDeIdentificadores = 0; // Atributo estático (compartilhado)
     private int identificador; // Atributo único para cada instância
