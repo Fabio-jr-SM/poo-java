@@ -35,7 +35,7 @@ O objetivo principal deste repositório é fornecer uma base sólida para compre
 - [✅] 5. Modificadores de Acesso e Atributos de Classe
 - [✅] 6. Eclipse IDE
 - [✅] 7. Pacotes - Organizando suas Classes e Bibliotecas
-- [ ] 8. Ferramentas: JAR e Javadoc
+- [✅] 8. Ferramentas: JAR e Javadoc
 - [ ] 9. Herança, Reescrita e Polimorfismo
 - [ ] 10. Classes Abstratas
 - [ ] 11. Interfaces
