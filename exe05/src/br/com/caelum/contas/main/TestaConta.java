@@ -8,8 +8,6 @@ public class TestaConta {
         Data dataConta1 = new Data(10, 01, 2024);
         Data dataConta2 = new Data(11, 01, 2024);
 
-
-
         Conta conta1 = new Conta(dataConta1); //Constrututor padrão | Sem parametro
         Conta conta2 = new Conta("Fábio",dataConta2); // construtor com parâmetro | informando o parâmetro
 
