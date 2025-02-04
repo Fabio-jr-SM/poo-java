@@ -10,7 +10,10 @@ public class TestaConta {
 
         Conta conta1 = new Conta(dataConta1); //Constrututor padrão | Sem parametro
         Conta conta2 = new Conta("Fábio",dataConta2); // construtor com parâmetro | informando o parâmetro
-
+        
+        conta1.setSaldo(100);
+        System.out.println(conta1.getSaldo());
+        
         System.out.println("Conta 1 - Titular: " + conta1.getTitular() + ", Identificador: " + conta1.getIdentificador() + " Data de abertura: " + conta1.getDataAbertura());
         System.out.println("Conta 2 - Titular: " + conta2.getTitular() + ", Identificador: " + conta2.getIdentificador() + " Data de abertura: " + conta2.getDataAbertura());
     }
