@@ -36,10 +36,10 @@ O objetivo principal deste repositório é fornecer uma base sólida para compre
 - [✅] 6. Eclipse IDE
 - [✅] 7. Pacotes - Organizando suas Classes e Bibliotecas
 - [✅] 8. Ferramentas: JAR e Javadoc
-- [ ] 9. Herança, Reescrita e Polimorfismo
-- [ ] 10. Classes Abstratas
+- [✅] 9. Herança, Reescrita e Polimorfismo
+- [✅] 10. Classes Abstratas
 - [ ] 11. Interfaces
-- [ ] 12. Exceções e Controle de Erros
+- [✅] 12. Exceções e Controle de Erros
 - [ ] 13. O Pacote java.lang
 - [ ] 14. Um Pouco de Arrays
 - [ ] 15. Collections Framework

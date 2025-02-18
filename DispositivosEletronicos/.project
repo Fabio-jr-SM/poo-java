@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>atividadeCarros</name>
+	<name>DispositivosEletronicos</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1739907810551</id>
+			<id>1739907810493</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
